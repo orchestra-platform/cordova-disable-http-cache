@@ -8,8 +8,4 @@
   [NSURLCache setSharedURLCache:URLCache];
 }
 
-- (DisableHttpCachePlugin*)initWithWebView:(UIWebView*)theWebView {
-  return self;
-}
-
 @end
